@@ -1,0 +1,10 @@
+INSERT INTO `db_pizzaria_legal`.`tb_pizza` (`sabor`, `preco`, `tb_categoria_idtb_categoria`) VALUES ('Mussarela', '29.99', '1');
+INSERT INTO `db_pizzaria_legal`.`tb_pizza` (`sabor`, `preco`, `tb_categoria_idtb_categoria`) VALUES ('Calabresa', '30.99', '1');
+INSERT INTO `db_pizzaria_legal`.`tb_pizza` (`sabor`, `preco`, `tb_categoria_idtb_categoria`) VALUES ('4 Queijos', '35.99', '1');
+INSERT INTO `db_pizzaria_legal`.`tb_pizza` (`sabor`, `preco`, `tb_categoria_idtb_categoria`) VALUES ('Banana Com Canela', '38.99', '2');
+INSERT INTO `db_pizzaria_legal`.`tb_pizza` (`sabor`, `preco`, `tb_categoria_idtb_categoria`) VALUES ('Morango Com Chocolate', '38.99', '2');
+INSERT INTO `db_pizzaria_legal`.`tb_pizza` (`sabor`, `preco`, `tb_categoria_idtb_categoria`) VALUES ('Mini Mussarela', '3.99', '3');
+INSERT INTO `db_pizzaria_legal`.`tb_pizza` (`sabor`, `preco`, `tb_categoria_idtb_categoria`) VALUES ('Mini Calabresa', '3.99', '3');
+INSERT INTO `db_pizzaria_legal`.`tb_pizza` (`sabor`, `preco`, `tb_categoria_idtb_categoria`) VALUES ('Mini Frango Com Requeijao', '4.59', '3');
+INSERT INTO `db_pizzaria_legal`.`tb_pizza` (`sabor`, `preco`, `tb_categoria_idtb_categoria`) VALUES ('Coca-cola', '9.99', '4');
+INSERT INTO `db_pizzaria_legal`.`tb_pizza` (`sabor`, `preco`, `tb_categoria_idtb_categoria`) VALUES ('Guarana', '7.99', '4');

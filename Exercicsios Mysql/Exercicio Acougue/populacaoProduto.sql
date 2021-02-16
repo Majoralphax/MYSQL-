@@ -1,0 +1,9 @@
+INSERT INTO `db_cidade_das_carnes`.`tb_produto` (`nome`, `preco`, `tb_categoria_idtb_categoria`) VALUES ('Bisteca', '15.99', '3');
+INSERT INTO `db_cidade_das_carnes`.`tb_produto` (`nome`, `preco`, `tb_categoria_idtb_categoria`) VALUES ('Picanha', '52.99', '1');
+INSERT INTO `db_cidade_das_carnes`.`tb_produto` (`nome`, `preco`, `tb_categoria_idtb_categoria`) VALUES ('Acem', '14.99', '1');
+INSERT INTO `db_cidade_das_carnes`.`tb_produto` (`nome`, `preco`, `tb_categoria_idtb_categoria`) VALUES ('Miolo', '10.99', '1');
+INSERT INTO `db_cidade_das_carnes`.`tb_produto` (`nome`, `preco`, `tb_categoria_idtb_categoria`) VALUES ('Pé_de_Porco', '9.99', '3');
+INSERT INTO `db_cidade_das_carnes`.`tb_produto` (`nome`, `preco`, `tb_categoria_idtb_categoria`) VALUES ('Peito', '13.99', '2');
+INSERT INTO `db_cidade_das_carnes`.`tb_produto` (`nome`, `preco`, `tb_categoria_idtb_categoria`) VALUES ('Coxa', '14.99', '2');
+INSERT INTO `db_cidade_das_carnes`.`tb_produto` (`nome`, `preco`, `tb_categoria_idtb_categoria`) VALUES ('Manteiga', '8.99', '4');
+INSERT INTO `db_cidade_das_carnes`.`tb_produto` (`nome`, `preco`, `tb_categoria_idtb_categoria`) VALUES ('Leite', '5.99', '4');
